@@ -1,0 +1,33 @@
+# Claude Code
+.claude/local/
+.claude/cache/
+.claude/logs/
+
+# Node
+node_modules/
+package-lock.json
+*.skill
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.secret
+
+# Logs
+*.log
+logs/
+
+# Temporary
+*.tmp
+.tmp/
+temp/
