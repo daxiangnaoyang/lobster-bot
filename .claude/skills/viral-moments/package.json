@@ -1,7 +1,7 @@
 {
-  "name": "viral-moments-skill",
-  "version": "1.0.0",
-  "description": "病毒式朋友圈文案创作师 - 创作具有传播力的社交媒体文案",
+  "name": "viral-moments",
+  "version": "2.0.0",
+  "description": "病毒式朋友圈文案创作师 - 基于费曼学习法沉淀的高质量文案创作技能",
   "main": "index.js",
   "keywords": [
     "copywriting",
@@ -10,6 +10,11 @@
     "viral",
     "content-creation"
   ],
-  "author": "OpenClaw Learning Project",
-  "license": "MIT"
+  "author": "费曼学习法实践者",
+  "license": "MIT",
+  "claude": {
+    "description": "创作高质量朋友圈文案。核心标准：信息密度高、开头10秒点出价值、必须有认知/行动改变、无冗余段落。支持认知改变、问题解决、方法论、洞察、价值传递、极简价值六种风格。",
+    "trigger": "当你需要创作微信朋友圈文案、社交媒体内容、分享知识经验时使用",
+    "categories": ["content-creation", "writing"]
+  }
 }
