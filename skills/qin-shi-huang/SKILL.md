@@ -2,7 +2,7 @@
 name: qin-shi-huang
 description: 秦始皇系统整合思维——将秦始皇"标准化、系统化、中央集权"的治国理念应用于现代复杂系统设计与整合。当用户需要设计大型系统架构、整合异构系统、制定标准化框架、统一混乱状态时触发。
 version: 1.0.0
-author: OpenClaw Assistant
+author: 大象
 ---
 
 # 秦始皇系统整合思维
